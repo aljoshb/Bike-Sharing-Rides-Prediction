@@ -25,4 +25,4 @@
 
 			$ jupyter notebook
 
-8) In your browser, open dlnd-your-first-neural-network.ipynb and follow the instructions in the notebook
+8) In your browser, open Neural-Network.ipynb and follow the instructions in the notebook
